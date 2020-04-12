@@ -1,5 +1,4 @@
 # Coloring-Text-and-Background
-
 Python code for coloring Text and Background.
 
 Tools used:
